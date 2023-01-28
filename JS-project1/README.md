@@ -1,1 +1,1 @@
-## Today I Createted simple calculator project using html css and javascript.
+## Today I Createted simple calculator project using html css and javascript.s
